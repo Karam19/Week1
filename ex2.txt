@@ -1,0 +1,124 @@
+    1  https://aka.ms/wsluser
+    2  wsl --set-default-verson 2
+    3  --set-default-version 2
+    4  wsl --set-default-version 2
+    5  sudo apt install wsl
+    6  wsl --set-default-version 2
+    7  sudo apt install wsl
+    8  wsl -l-v
+    9  sudo apt install wsl
+   10  sudo apt-get install software-properties-common
+   11  sudo apt-add-repository universe
+   12  sudo apt-get update
+   13  sudo apt-get install python-pip
+   14  wsl -l-v
+   15  sudo apt update
+   16  sudo apt-get install python-pip
+   17  wsl -l-v
+   18  sudo apt install wsl
+   19  wsl -l-v
+   20  sudo apt upgrade
+   21  wsl -l-v
+   22  wsl --set-default-version 2
+   23  wsl --list --verbose
+   24  whoami
+   25  hostname
+   26  man whoami
+   27  pwd
+   28  cd .
+   29  pwd
+   30  touch sample.txt
+   31  pwd
+   32  cat sample.txt
+   33  pwd
+   34  mv sample.txt s.txt
+   35  mkdir ~/week1
+   36  pwd
+   37  cd ~/week1
+   38  cd .
+   39  cd ..
+   40  cd week1
+   41  cd ..
+   42  cd bin
+   43  cd ~/usr/bin
+   44  cd bin
+   45  cd ccs
+   46  pwd
+   47  gcc
+   48  cd gcc
+   49  history > ex2.txt
+   50  pwd
+   51  cat ex2.txt
+   52  cd ccs
+   53  cd css
+   54  cd usr
+   55  cd /bin
+   56  cd /gcc
+   57  ls
+   58  cd /bin
+   59  ls gcc
+   60  ls
+   61  ls | sort -r | *.gcc
+   62  ls -rn *.gcc
+   63  ls -rn *.c
+   64  ls -rt *.gcc
+   65  ls *.txt
+   66  ls *.c
+   67  ls *.gcc
+   68  List entries in /usr/bin that contain “gcc” in reverse
+   69  alphabetical orderList entries in /usr/bin that contain “gcc” in reverse
+   70  date
+   71  date sleep 3 date
+   72  --help
+   73  date --help
+   74  List entries in /usr/bin that contain “gcc” in reverse
+   75  cd C:\
+   76  cd week1
+   77  sh ex3.sh
+   78  histort
+   79  history
+   80  sudo apt install git
+   81  git init
+   82  cd week1
+   83  cd ~
+   84  cd /usr/bin
+   85  ls -r | grep "gcc" > ex1.txt
+   86  ls -r | grep "gcc"
+   87  ls
+   88  clear
+   89  ls | grep gcc
+   90  ls -r | grep "gcc"
+   91  ex1.txt
+   92  rm ex1.txt
+   93  cd ~
+   94  ls /usr/bin | grep gcc | sort -r > ~/week1/ex1.txt
+   95  cd week1
+   96  cat ex1.txt
+   97  ls
+   98  car ex1.txt
+   99  cat ex1.txt
+  100  cd ~
+  101  cd /usr/bin
+  102  ls | grep gcc
+  103  cd ~
+  104  sudo apt install gcc
+  105  cd /usr/lib
+  106  ls | grep gcc
+  107  ls /usr/lib | grep gcc
+  108  clear
+  109  ls | grep gcc
+  110  ls | grep "gcc"
+  111  ls 
+  112  cd ~
+  113  cd week1
+  114  ls
+  115  rm ex1.txt
+  116  ls
+  117  cd ~
+  118  ls /usr/bin | grep gcc
+  119  ls /usr/bin | grep gcc > ~/week1/ex1.txt
+  120  cd week1
+  121  ls
+  122  car ex1.txt
+  123  cat ex1.txt
+  124  history > ex2.txt
